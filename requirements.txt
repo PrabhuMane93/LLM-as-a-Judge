@@ -1,0 +1,6 @@
+arize-phoenix
+openai
+pandas
+google-genai
+litellm
+nest-asyncio
